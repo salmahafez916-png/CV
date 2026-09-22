@@ -71,5 +71,5 @@ class ObjectCounter:
 
 
 if __name__ == "__main__":
-  counter = ObjectCounter(r"D:\task_two.png")
+  counter = ObjectCounter("task_two.png")
   counter.process()
